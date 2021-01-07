@@ -20,5 +20,4 @@ else {
 	include('template/index.php');
 }
 
-
 ?>
